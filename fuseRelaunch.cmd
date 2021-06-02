@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/studia/Vlsi_projekty/FIR_Filtr/FIR_filtr_test_isim_beh.exe" -prj "C:/studia/Vlsi_projekty/FIR_Filtr/FIR_filtr_test_beh.prj" "work.FIR_filtr_test" 

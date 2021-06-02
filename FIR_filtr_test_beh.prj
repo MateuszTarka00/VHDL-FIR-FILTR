@@ -1,0 +1,2 @@
+vhdl work "FIR_filtr.vhd"
+vhdl work "FIR_filtr_test.vhd"

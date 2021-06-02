@@ -1,0 +1,2 @@
+vhdl isim_temp "FIR_filtr.vhd"
+vhdl isim_temp "FIR_filtr_test.vhd"
